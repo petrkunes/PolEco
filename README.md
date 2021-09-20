@@ -35,7 +35,7 @@ install_github("petrkunes/PolEco")
 4. Load the PolEco package
 
 ```
-library(LRA)
+library(PolEco)
 ```
 
 5. Run the example calculation
