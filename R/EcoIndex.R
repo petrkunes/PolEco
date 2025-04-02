@@ -68,7 +68,7 @@ Eco.Index <- function(pollen_counts, pollen_plants_eco, perm = 100)
         }
       }
     }
-    DF <- rbind(DF, data.frame(Entity = samples[i, 1], Sample = samples[i, 2], EcoIndex = mean(freq_boot), SD = sd(freq_boot)))
+    DF <- rbind(DF, data.frame(Entity = samples[i, 1], Sample = samples[i, 2], EcoIndex = mean(freq_boot), SD = sd(freq_boot), SEM = sd(freq_boot)/sqrt(length(freq_boot))))
   }
   cat(" Done!\n")
   close(pb)
