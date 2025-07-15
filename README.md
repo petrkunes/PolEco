@@ -1,6 +1,6 @@
 R package to calculate ecological index of disturbance for pollen assemblage
  ~~~~~~~~~~~~~~~~
- Date (version)  : v0.1.0, 5 Aug 2021
+ Date (version)  : v0.2.0, 15 Jul 2025
  Author          : Petr Kuneš
  Email           : petr.kunes@natur.cuni.cz
  Citation        : Kuneš, P., Abraham, V., & Herben, T. (2019). 
