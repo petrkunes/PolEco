@@ -36,3 +36,15 @@
 #'  PC_Prasilske
 #' }
 "PC_Prasilske"
+
+#' Pollen counts from Prášilské jezero in Šumava Mts., Czech Republic, with metada in Tilia format spreadsheet
+#'
+#' @source Carter, V.A., Chiverrell, R.C., Clear, J.L., Kuosmanen, N., Moravcová, A., Svoboda, M., Svobodová-Svitavská, H., Leeuwen, V., Van Leeuwen, J., van der Knaap, W.O., & Kuneš, P. 2018. Quantitative palynology informing conservation ecology in the Bohemian/Bavarian Forests of Central Europe. Frontiers in Plant Science 8: 1–14.
+#' @source Carter, V.A., Moravcová, A., Chiverrell, R.C., Clear, J.L., Finsinger, W., Dreslerová, D., Halsall, K., & Kuneš, P. 2018. Holocene-scale fire dynamics of central European temperate spruce-beech forests. Quaternary Science Reviews 191: 15–30.
+#'
+#' @examples
+#' data(Tilia_Prasilske)
+#' \donttest{
+#'  Tilia_Prasilske
+#' }
+"Tilia_Prasilske"
